@@ -1,3 +1,0 @@
-resources:
-- nginx-deploy.yaml  
-- nginx-svc.yaml
