@@ -2,3 +2,5 @@ resources:
 - ns.yaml
 - nginx.yaml
 - nginx-svc.yaml
+patchesStrategicMerge:
+- replica.yaml
