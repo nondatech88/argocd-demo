@@ -8,4 +8,3 @@ images:
 - name: nginx
   newName: nginx
   newTag: 1.20.1
-EOF
