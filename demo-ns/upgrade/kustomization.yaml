@@ -4,6 +4,6 @@ bases:
 patchesStrategicMerge:
 images:
 - name: nginx
-  newName: nginx
-  newTag: 1.20.1
+  newName: nondatech/class4-nginx
+  newTag: 1.0.0
 
