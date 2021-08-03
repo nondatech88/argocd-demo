@@ -1,9 +1,4 @@
 resources:
+- ns.yaml
 - nginx.yaml
 - nginx-svc.yaml
-patchesStrategicMerge:
-- replica.yaml
-images:
-- name: nginx
-  newName: nginx
-  newTag: 1.20.1
