@@ -2,7 +2,6 @@ bases:
 - ../base
 
 patchesStrategicMerge:
-- replica.yaml
 images:
 - name: nginx
   newName: nondatech/class4-nginx
