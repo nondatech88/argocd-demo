@@ -2,3 +2,7 @@ resources:
 - ns.yaml
 - nginx.yaml
 - nginx-svc.yaml
+
+- prod-nginx-svc.yaml  
+- prod-nginx.yaml  
+- prod-ns.yaml
